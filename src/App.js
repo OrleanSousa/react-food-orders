@@ -9,6 +9,7 @@ function App() {
 
   function showCartHandler() {
     setCartIsShown(true);
+    //vai comittar sim
   }
   function hideCartHandler() {
     setCartIsShown(false);
